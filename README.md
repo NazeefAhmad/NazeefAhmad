@@ -6,7 +6,7 @@ App Developer
 
 "I am not Groot but I am noob🥲 "
 
-*   ✉️  You can contact me at [nazeefahmad@gmail.com](mailto:nazeefahmad@gmail.com)
+*   ✉️  You can contact me at [nazeefahmad555@gmail.com](mailto:nazeefahmad@gmail.com)
 *   🧠  I'm learning Flutter and Data Structures
 *   🤝  I'm open to collaborating on discord<a href="https://www.github.com/NazeefAhmad" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/NazeefAhmad?logo=github&style=for-the-badge&color=facc15&labelColor=171717" /></a><a href="https://www.x.com/Nazeef_Ahmad1" target="_blank" rel="noreferrer"><img
