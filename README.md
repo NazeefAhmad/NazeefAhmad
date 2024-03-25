@@ -7,7 +7,7 @@
 <body>
 
 <!-- Image container in top right corner -->
-<div style="position: absolute; top: 40px; left: 20px;">
+<div style="position: absolute; top: 40px; left: 120px;">
   <img src="https://in.pinterest.com/pin/astronaut-aesthetic--42502790213804680/" alt="Image" width="100" height="100">
   <br>
   <img src="https://cdn.discordapp.com/attachments/1120232662863450254/1221956868264562878/3q63.gif?ex=66147704&is=66020204&hm=a94e34ad813cb8e6c6b6d2fe9b4f4ec5fbd38d46dd41eca9373263428889c4e6" alt="GIF" width="100" height="100">
