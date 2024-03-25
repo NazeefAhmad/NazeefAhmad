@@ -1,3 +1,7 @@
+<div style="position: absolute; top: 20px; right: 20px;">
+  <img src="https://in.pinterest.com/pin/astronaut-aesthetic--42502790213804680/" alt="Image" width="100" height="100">
+</div>
+
 <h1 align="center">Hi 👋, I'm Nazeef Ahmad</h1>
 <h3 align="center">A passionate Developer from India</h3>
 
@@ -5,6 +9,7 @@
 
 
 <p align="left"> <a href="https://twitter.com/nazeef_ahmad1" target="blank"><img src="https://img.shields.io/twitter/follow/nazeef_ahmad1?logo=twitter&style=for-the-badge" alt="nazeef_ahmad1" /></a> </p>
+
 
 - 🔭 I’m currently working on [Ella_Chat_Bot](https://github.com/NazeefAhmad/Ella_Chat_Bot-2)
 
