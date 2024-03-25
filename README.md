@@ -1,3 +1,25 @@
+<h1 align="center">Hi 👋, I'm Nazeef Ahmad</h1>
+<h3 align="center">A passionate Developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nazeefahmad&label=Profile%20views&color=0e75b6&style=flat" alt="nazeefahmad" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nazeefahmad" alt="nazeefahmad" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/nazeef_ahmad1" target="blank"><img src="https://img.shields.io/twitter/follow/nazeef_ahmad1?logo=twitter&style=for-the-badge" alt="nazeef_ahmad1" /></a> </p>
+
+- 🔭 I’m currently working on [Ella_Chat_Bot](https://github.com/NazeefAhmad/Ella_Chat_Bot-2)
+
+- 🌱 I’m currently learning **Artificial Intelligence**
+
+- 👯 I’m looking to collaborate on [AnimateAnyone](https://github.com/NazeefAhmad/AnimateAnyone)
+
+- 👨‍💻 All of my projects are available at [https://hack-black-pearl.github.io/Portfolio/](https://hack-black-pearl.github.io/Portfolio/)
+
+- 💬 Ask me about **Flutter, Java**
+
+- 📫 How to reach me **nazeefahmad555@gmail.com**
+
+
 # 💫 About Me:
 🔭 I’m currently working on Ella_Chat_Bot<br><br>🌱 I’m currently learning Artificial Intelligence<br><br>👯 I’m looking to collaborate on AnimateAnyone<br><br>👨‍💻 All of my projects are available at https://hack-black-pearl.github.io/Portfolio/<br><br>💬 Ask me about Flutter, Java<br><br>📫 How to reach me nazeefahmad555@gmail.com
 
