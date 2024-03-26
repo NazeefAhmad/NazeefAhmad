@@ -1,7 +1,5 @@
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Concert+One&size=50&duration=3000&pause=1000&color=82AAFF&center=true&multiline=true&repeat=false&random=true&width=1000&height=60&lines=Hello+There!" alt="Typing SVG" /></a> -->
- 
-<img src=" https://github.com/NazeefAhmad/NazeefAhmad/blob/main/nazeef%20header.png"  />
-
+![Header Image](https://github.com/NazeefAhmad/NazeefAhmad/blob/main/nazeef%20header.png)
 
 <h1 align="center">Hi 👋, I'm Nazeef Ahmad</h1>
 <h3 align="center">A passionate Developer from India</h3>
@@ -13,15 +11,10 @@
 <p align="left"> <a href="https://twitter.com/nazeef_ahmad1" target="blank"><img src="https://img.shields.io/twitter/follow/nazeef_ahmad1?logo=twitter&style=for-the-badge" alt="nazeef_ahmad1" /></a> </p>
 
 - 🔭 I’m currently working on [Ella_Chat_Bot](https://github.com/NazeefAhmad/Ella_Chat_Bot-2)
-
 - 🌱 I’m currently learning **Artificial Intelligence**
-
 - 👯 I’m looking to collaborate on [AnimateAnyone](https://github.com/NazeefAhmad/AnimateAnyone)
-
 - 👨‍💻 All of my projects are available at [https://hack-black-pearl.github.io/Portfolio/](https://hack-black-pearl.github.io/Portfolio/)
-
 - 💬 Ask me about **Flutter, Java**
-
 - 📫 How to reach me **nazeefahmad555@gmail.com**
 
 
