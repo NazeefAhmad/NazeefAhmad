@@ -1,6 +1,6 @@
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Concert+One&size=50&duration=3000&pause=1000&color=82AAFF&center=true&multiline=true&repeat=false&random=true&width=1000&height=60&lines=Hello+There!" alt="Typing SVG" /></a> -->
  &nbsp;
-<img src=" https://github.com/NazeefAhmad/NazeefAhmad/blob/main/nazeef%20header.png" alt="linkedin" />
+<img src=" https://github.com/NazeefAhmad/NazeefAhmad/blob/main/nazeef%20header.png"  />
 
 
 <h1 align="center">Hi 👋, I'm Nazeef Ahmad</h1>
