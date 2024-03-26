@@ -9,6 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/nazeef_ahmad1" target="blank"><img src="https://img.shields.io/twitter/follow/nazeef_ahmad1?logo=twitter&style=for-the-badge" alt="nazeef_ahmad1" /></a> </p>
 
+
+
+# 💫 About Me:
 - 🔭 I’m currently working on [Ella_Chat_Bot](https://github.com/NazeefAhmad/Ella_Chat_Bot-2)
 - 🌱 I’m currently learning **Artificial Intelligence**
 - 👯 I’m looking to collaborate on [AnimateAnyone](https://github.com/NazeefAhmad/AnimateAnyone)
@@ -16,9 +19,6 @@
 - 💬 Ask me about **Flutter, Java**
 - 📫 How to reach me **nazeefahmad555@gmail.com**
 
-
-# 💫 About Me:
-🔭 I’m currently working on Ella_Chat_Bot<br><br>🌱 I’m currently learning Artificial Intelligence<br><br>👯 I’m looking to collaborate on AnimateAnyone<br><br>👨‍💻 All of my projects are available at https://hack-black-pearl.github.io/Portfolio/<br><br>💬 Ask me about Flutter, Java<br><br>📫 How to reach me nazeefahmad555@gmail.com
 
 
 ## 🌐 Socials:
