@@ -1,5 +1,5 @@
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Concert+One&size=50&duration=3000&pause=1000&color=82AAFF&center=true&multiline=true&repeat=false&random=true&width=1000&height=60&lines=Hello+There!" alt="Typing SVG" /></a> -->
-![Header Image](https://github.com/NazeefAhmad/NazeefAhmad/blob/main/Black%20Minimalist%20Corporate%20Business%20Profile%20LinkedIn%20Banner.png)
+![Header Image](https://github.com/NazeefAhmad/NazeefAhmad/blob/main/Black%20Minimalist%20Corporate%20Business%20Profile%20LinkedIn%20Banner%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Nazeef Ahmad</h1>
 <h3 align="center">A passionate Developer from India</h3>
